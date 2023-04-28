@@ -130,6 +130,18 @@ img {
  
  @media screen and (max-width: 768px) {
     .container {
+        max-width: 90%;
+        padding: 0 5px;
+    }
+    .col {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    .container {
         max-width: 70%;
     }
 }
