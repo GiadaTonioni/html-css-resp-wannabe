@@ -157,6 +157,15 @@ img {
     .card {
         margin-bottom: 60px;
     }
+    .why-us {
+        background-color: rgb(27, 27, 27);
+        margin-bottom: 0px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .steps {
+        margin-bottom: 0px;
+    }
 }
     
 
